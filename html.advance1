@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professional webpage of Ng'ono David, a software engineer.">
+    <title>Ng'ono David - Software Engineer</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <a href="index.html">
+            <img src="logo.png" alt="Ng'ono David Logo" style="width: 100px; height: auto;">
+        </a>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Banner Section -->
+    <main>
+        <section>
+            <!-- First Block -->
+            <div>
+                <h1>Welcome to Ng'ono David's Portfolio</h1>
+                <p>Discover the journey of a passionate software engineer creating innovative solutions.</p>
+                <button>Learn More</button>
+            </div>
+
+            <!-- Second Block -->
+            <div>
+                <h2>Skills & Expertise</h2>
+                <div>
+                    <!-- Skill Block 1 -->
+                    <div>
+                        <img src="Eliphaz9.jpg" alt="Programming" style="width: 100px; height: auto;">
+                        <h3>Programming</h3>
+                        <p>Strong expertise in writing clean, efficient code.</p>
+                    </div>
+
+                    <!-- Skill Block 2 -->
+                    <div>
+                        <img src="Eliphaz9.jpg" alt="Web Development" style="width: 100px; height: auto;">
+                        <h3>Web Development</h3>
+                        <p>Building responsive and user-friendly web applications.</p>
+                    </div>
+
+                    <!-- Skill Block 3 -->
+                    <div>
+                        <img src="Eliphaz9.jpg" alt="Problem Solving" style="width: 100px; height: auto;">
+                        <h3>Problem Solving</h3>
+                        <p>Approaching challenges with creativity and logic.</p>
+                    </div>
+
+                    <!-- Skill Block 4 -->
+                    <div>
+                        <img src="Eliphaz9.jpg" alt="Collaboration" style="width: 100px; height: auto;">
+                        <h3>Collaboration</h3>
+                        <p>Working effectively within teams to achieve goals.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quote Section -->
+        <section>
+            <div>
+                <img src="Eliphaz9.jpg" alt="Ng'ono David" style="width: 100px; height: auto;">
+                <div>
+                    <blockquote>
+                        "The best way to predict the future is to invent it."
+                    </blockquote>
+                    <p>- Alan Kay</p>
+                    <p>
+                        This quote reflects the innovative mindset I bring to every project, 
+                        constantly striving to create impactful solutions.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
